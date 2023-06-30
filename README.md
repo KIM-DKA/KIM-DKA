@@ -20,7 +20,7 @@
     <br> 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Airflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
 </div>
 <br>
 <div align=center>
